@@ -5,3 +5,4 @@ def minimal_task(number, alo):
     message = "Hello"
     message = message + " World!"
     message = message + str(number)
+    message = message + alo
