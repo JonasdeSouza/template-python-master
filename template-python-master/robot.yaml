@@ -3,7 +3,7 @@
 
 tasks:
   Run Task:
-    shell: python -m robocorp.tasks run tasks.py -- --number NUMBER. --alo ALO.
+    shell: python -m robocorp.tasks run tasks.py -- --number NONE --alo ALO.
 
 environmentConfigs:
   - environment_windows_amd64_freeze.yaml
